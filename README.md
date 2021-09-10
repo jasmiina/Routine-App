@@ -1,6 +1,6 @@
 # Routine-App
 A simple app where the user can create and view routines.
-NOTE: The source code is currently unavailable, but you can see how the app works by viewing this video:
+NOTE: The source code is currently unavailable, but you can see how the app works by viewing this video: https://youtu.be/LL1D3HjWuLs
 
 *Features*
   - User-friendly UI with animations
